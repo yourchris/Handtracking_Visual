@@ -1,0 +1,43 @@
+# --- Python Specific ---
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+include/
+share/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Distribution / Packaging ---
+dist/
+build/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Security & Credentials (CRITICAL) ---
+.env
+auth.json
+secrets.txt
+*.key
+*.pem
