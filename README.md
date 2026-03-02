@@ -3,7 +3,7 @@
 A high-performance computer vision application built with **Python**, **OpenCV**, and **MediaPipe**. This project detects hand landmarks in real-time and provides a visual feedback loop for gesture-based interactions.
 
 ## 🚀 Key Features
-- **Real-time Tracking:** Optimized for low-latency processing (M4 Silicon ready).
+- **Real-time Tracking:** Optimized for low-latency processing (MAC ONLY! M4 chip tested).
 - **Landmark Mapping:** Full 21-point hand skeleton visualization.
 - **Visual Feedback:** Dynamic overlays and coordinate tracking.
 
